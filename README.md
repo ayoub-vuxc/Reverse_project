@@ -1,4 +1,4 @@
-Ce dépôt documente l'analyse complète d'un exécutable Windows (dismember.exe) généré par PyInstaller, dont le but est de révéler un mécanisme de chiffrement complexe (XOR) et de trouver la clé finale pour "ouvrir un portail" (Magic The Gathering Challenge).
+Ce dépôt documente l'analyse complète d'un exécutable Windows (dismember.exe) généré par PyInstaller, dont le but est de révéler un mécanisme de chiffrement complexe (+ process injection) et de trouver la clé finale pour "ouvrir un portail" (Magic The Gathering Challenge).
 
 
 Outil utilisé:
